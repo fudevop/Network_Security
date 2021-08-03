@@ -6,5 +6,5 @@ pkt[0].rootmac = "00:00:00:00:00:01"
 pkt[0].bridgeid=0
 pkt[0].bridemac="00:00:00:00:00:01"
 for x in range(0,100)
-    sendp(pkt[0, loop=0, verbpse=1)
+    sendp(pkt[0, loop=0, verbose=1)
     time.sleep(1
