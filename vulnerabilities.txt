@@ -1,0 +1,3 @@
+
+open port is 53 with banner no_banner
+open port is 80 with banner no_banner
